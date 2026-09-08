@@ -1,0 +1,10 @@
+Plaintext
+streamlit
+pandas
+requests
+beautifulsoup4
+lxml
+html5lib
+plotly
+folium
+streamlit-folium
